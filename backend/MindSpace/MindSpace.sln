@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindSpace.WebApi", "MindSpace.WebApi\MindSpace.WebApi.csproj", "{FFDC13EF-5223-4042-B7E8-7F7BB72CA9F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindSpace.Core", "MindSpace.Core\MindSpace.Core.csproj", "{8BABF8B9-4729-40DF-9991-72B7E691BDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFDC13EF-5223-4042-B7E8-7F7BB72CA9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDC13EF-5223-4042-B7E8-7F7BB72CA9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDC13EF-5223-4042-B7E8-7F7BB72CA9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDC13EF-5223-4042-B7E8-7F7BB72CA9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BABF8B9-4729-40DF-9991-72B7E691BDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BABF8B9-4729-40DF-9991-72B7E691BDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BABF8B9-4729-40DF-9991-72B7E691BDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BABF8B9-4729-40DF-9991-72B7E691BDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
